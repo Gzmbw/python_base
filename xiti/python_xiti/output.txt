@@ -1,0 +1,6 @@
+name    score
+jian     87
+alen     78
+xiaodong 54
+I will be in a file.
+So cool!

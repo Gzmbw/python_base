@@ -1,0 +1,4 @@
+name    score
+jian     87
+alen     78
+xiaodong 54
